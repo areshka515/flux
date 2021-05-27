@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: stefanprodan/podinfo
-      tag: dev-boijaayt
+      tag: dev-3npx5lov
     replicaCount: 1
     hpa:
       enabled: false
